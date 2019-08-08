@@ -15,3 +15,4 @@ nav_order: 200
         1.	Traditional Authentication
         2.	MFA enabled tenants
     5.	Infrastructure Hardening
+        - Windows encryption for on-rest data
