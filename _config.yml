@@ -37,6 +37,8 @@ theme: just-the-docs
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - readme.md
 
 # Just-the-docs Config
 search_enabled: true
