@@ -1,6 +1,6 @@
 # VBO365 Best Practise Guide
 
-To view this page on Github Pages, visit [](https://veeambestpractise.github.io/vbo365bp/)
+To view this page on Github Pages, visit https://veeambestpractise.github.io/vbo365bp/
 
 ## Resources
 
