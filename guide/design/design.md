@@ -9,7 +9,10 @@ Add generic content here
 {: .label .label-yellow }
 
     1.	Generic overview (Source helpcenter)
-    2.	Sizing / Requirements
+    1.  Networking (DNS, prefer IPv4, Domain membership ...)
+    2.	Sizing / Requirements, restores only in memory - no caching on disk
+    1. Repositories (Own repositories for different data types in larger environments - not all data grows equally)     
+        DAS over SMB, iCSCI, repo size
     3.	Placement - Azure Template / On premise
         1.	Not Azure: Expressroute/Internet…
         2.	On Premise: Physical/ Virtual
