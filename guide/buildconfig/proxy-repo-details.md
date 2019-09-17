@@ -22,6 +22,9 @@ However, handling such large repositories (e.g. for migration purposes) comes wi
 While for Exchange a lot of objects might be changed, the amount of data is normally quite low, as most of it is just text. For OneDrive however, the average changed file size might be much higher because it is used to store large binary files.
 Even for the same type of data (e.g. OneDrive) it might be reasonable to again separate this data only, e.g. by business unit, when the overall data size is very high.
 
+### Working Space
+Additional space for transaction protocols or database checkpoints is required per repositry. There should always 10% free workspace per repository to compensate this.
+
 ## Proxy
 
 ### Bandwidth Throttling

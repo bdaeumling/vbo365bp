@@ -17,6 +17,7 @@ Repositories can reside on Direct Attached Storage (DAS), Storage Area Network (
 * Do **not enable storage encryption, dedup or compression** on the repository volume for better performance
 * **Separate repositories by data type** as different types of data (Exchange, OneDrive, SharePoint) to allow higher flexibility based on the different data-change characteristics.
 * **Avoid very large repositories** because handling them gets harder. Distribute the backup data, e.g. by business units over several repositories.
+* Keep **10% free working space** per repository
 
 ### Proxy
 
